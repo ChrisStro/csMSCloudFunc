@@ -1,0 +1,8 @@
+{
+  "tenantId": "yourTenantID",
+  "operationName": "Enrollment",
+  "time": "2021-11-08T15:39:41.0759Z",
+  "properties": {
+    "IntuneDeviceId": "yourIntuneDeviceID",
+  }
+}

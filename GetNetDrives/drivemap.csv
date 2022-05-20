@@ -1,0 +1,3 @@
+Group,DriveLetter,DriveLabel,Path
+AD_Testgroup,X,AzureFiles,\\vfs\share\private
+ALL,S,Shared,\\vfs\share\public
